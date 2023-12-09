@@ -7,8 +7,8 @@ It is very unstructured as of now. A refactoring is due.
 
 ## Goals
 
-[  ] Vim-like movement and commands
-[  ] Refactoring
-[  ] Word/Phrase selection
-[  ] Translation blocks
-[  ] UI upgrade
+- [ ] Vim-like movement and commands
+- [ ] Refactoring
+- [ ] Word/Phrase selection
+- [ ] Translation blocks
+- [ ] UI upgrade
